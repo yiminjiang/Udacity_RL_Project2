@@ -1,6 +1,6 @@
-# Udacity_RL_Project2
+# Udacity_RL_Project2,
 
-Project 2 of Udacity Deep Reinforcement Learning
+Project 2 of Udacity Deep Reinforcement Learning, solve the first version.
 
 state size: 33
 
