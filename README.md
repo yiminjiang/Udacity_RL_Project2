@@ -9,6 +9,24 @@ In this environment, a double-jointed arm can move to target locations. A reward
 The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocities of the arm. Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector should be a number between -1 and 1.
 state size: 33
 
+Getting Started:
+To run the code, you need to have PC Windows (64-bit) with Anaconda with Python 3.6 installed.
+
+To download Anaconda, please click the link below:
+
+https://www.anaconda.com/download/
+
+Clone or download and unzip the DRLND_P2_Continuous_Control folder.
+
+Download by clicking the link below and unzip the environment file under DRLND_P2_Continuous_Control folder
+
+https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86_64.zip
+
+Download by clicking the link below and unzip the ml-agents file under DRLND_P2_Continuous_Control folder
+
+https://github.com/Unity-Technologies/ml-agents/tree/0.4.0b
+
+
 Dependencies :
 To set up your Python environment to run the code in this repository, follow the instructions below.
 
