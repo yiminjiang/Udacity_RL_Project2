@@ -29,6 +29,7 @@ https://github.com/Unity-Technologies/ml-agents/tree/0.4.0b
 
 
 Dependencies :
+
 To set up your Python environment to run the code in this repository, follow the instructions below.
 
 Create (and activate) a new environment with Python 3.6.
@@ -48,7 +49,8 @@ conda install -c conda-forge matplotlib
 
 conda install -c anaconda prompt_toolkit 
 
-Run the code
+Run the code:
+
 Open Continuous_Control.ipynb in Jupyter and press Shift+Enter to run the first cell to import all the libraries.
 
 
