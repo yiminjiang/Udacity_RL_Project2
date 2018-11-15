@@ -10,6 +10,7 @@ The observation space consists of 33 variables corresponding to position, rotati
 state size: 33
 
 Getting Started:
+
 To run the code, you need to have PC Windows (64-bit) with Anaconda with Python 3.6 installed.
 
 To download Anaconda, please click the link below:
